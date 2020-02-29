@@ -7,14 +7,18 @@
     <title>Index</title>
 </head>
 <body>
-    <h1>Opciones</h1>
-    <a href="/Video/Index/">Ver lista de videos</a>
+     <h1> <center>Centro de Videos</center> </h1>
+    <h2>Menu Opciones: </h2>
+    <a href="/Video/Index/">*Ver lista de videos</a>
     <br />
-    <a href="/Video/Create/">Agregar video</a>
     <br />
-    <a href="/Video/Delete/">Eliminar video</a>
+    <a href="/Video/Create/"> *Agregar video</a>
     <br />
-    <a href="/Video/Modificar">Modificar video</a>
+    <br />
+    <a href="/Video/Eliminar/"> *Eliminar video</a>
+    <br />
+    <br />
+    <a href="/Video/Modificar"> *Modificar video</a>
 
 </body>
 </html>
