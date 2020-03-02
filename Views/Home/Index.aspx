@@ -7,6 +7,14 @@
     <title>Index</title>
 </head>
 <body>
-    <h1>BIENVENIDO</h1>
+    <h1>Opciones</h1>
+    <a href="/Video/Index/">Ver lista de videos</a>
+    <br />
+    <a href="/Video/Create/">Agregar video</a>
+    <br />
+    <a href="/Video/Delete/">Eliminar video</a>
+    <br />
+    <a href="/Video/Modificar">Modificar video</a>
+
 </body>
 </html>
